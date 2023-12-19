@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module",
+  "name": "rock-paper-scissors",
+  "description": "Код реализует игру \"Камень-ножницы-бумага\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tresh-polka/rock-paper-scissors.git"
+  },
+  "author": "Polina Yausheva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tresh-polka/rock-paper-scissors/issues"
+  },
+  "homepage": "https://github.com/tresh-polka/rock-paper-scissors#readme"
+}
